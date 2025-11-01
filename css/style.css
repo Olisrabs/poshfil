@@ -2247,6 +2247,11 @@ header.video-bg {
   font: 300 14px/1 "Poppins", sans-serif;
 }
 
+.member .inner .texts p {
+  margin: 0;
+  font: 300 7px/1 "Poppins", sans-serif;
+}
+
 /*=========Timeline==========*/
 .timeline {
   padding: 85px 0;
